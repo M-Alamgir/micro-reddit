@@ -5,6 +5,9 @@ on: pull_request
 
 env:
   FORCE_COLOR: 1
+  
+Style/FrozenStringLiteralComment:
+  Enabled: false
 
 jobs:
   rubocop:
