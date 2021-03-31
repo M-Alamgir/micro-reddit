@@ -40,6 +40,10 @@ The resources we have used to develop our project:
 
 Give ⭐ Star me on GitHub — it helps!
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
 ## 📝 License
 
 This project is [MIT](lic.url) licensed. 
