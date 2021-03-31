@@ -28,7 +28,7 @@ To get this project up and running locally, you must already have ruby and neces
 
 👤 **Alamgir**
 
-- GitHub: [@ourandco](https://github.com/ourandco)
+- GitHub: [@Alamgir](https://github.com/M-Alamgir)
 - Twitter: [@Alphacrescent1](https://twitter.com/Alphacrescent1)
 
 ## Acknowledgment
@@ -40,6 +40,10 @@ The resources we have used to develop our project:
 
 Give ⭐ Star me on GitHub — it helps!
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
 ## 📝 License
 
-This project is [MIT](lic.url) licensed. 
+This project is [MIT](https://opensource.org/licenses/MIT) licensed. 
